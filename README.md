@@ -1,5 +1,8 @@
 # ContactsList
-# Author: Vilma Heikkilä
+Author: Vilma Heikkilä
+
+
+
 A simple command line contacts list for maintaining knowledge of people's names, user names,
 and 5-digit user codes in some imaginary user base. You can print a list of contacts, add new contacts,
 remove contacts, and sort the list by either names or user codes. People can have the same names,
